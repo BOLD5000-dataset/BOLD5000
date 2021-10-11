@@ -5,7 +5,7 @@
 ### [Project page](bold5000.org) | [Paper](https://www.nature.com/articles/s41597-019-0052-3) | [List Serv](https://docs.google.com/forms/d/e/1FAIpQLScdxRc7eKOpZv5Yc6sfzWP5gi0egkDtNSPedVqpvtx_3yw4pg/viewform)
 
 BOLD5000, a public fMRI dataset while viewing 5000 visual images.<br>
-[Nadine Chang](nadinechang.com), [John A. Pyles](https://www.linkedin.com/in/john-pyles-37401a7a/), [Jacob Prince](https://jacob-prince.github.io), Austin Marcus, [Michael J. Tarr](https://sites.google.com/andrew.cmu.edu/tarrlab/people/michael-j-tarr?authuser=0), [Elissa M. Aminoff](https://www.fordham.edu/info/21660/faculty_and_staff/9370/elissa_aminoff/1)
+[Nadine Chang](nadinechang.com), [John A. Pyles](https://www.linkedin.com/in/john-pyles-37401a7a/), [Jacob Prince](https://jacob-prince.github.io), Austin Marcus, [Michael J. Tarr](https://sites.google.com/andrew.cmu.edu/tarrlab/people/michael-j-tarr?authuser=0), [Elissa M. Aminoff](https://www.fordham.edu/info/21660/faculty_and_staff/9370/elissa_aminoff/1) <br>
 Nature Scientific Data 2019.
 
 BOLD5000 is a human functional MRI (fMRI) study that includes almost 5,000 distinct images depicting real-world scenes, incorporating images from the Scene UNderstanding (SUN), Common Objects in Context (COCO), and ImageNet datasets. The scale and diversity of these image datasets, combined with a slow event-related fMRI design, enables fine-grained exploration into the neural representation of a wide range of visual features, categories, and semantics.
